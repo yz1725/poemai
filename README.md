@@ -1,3 +1,5 @@
+机器自己创作诗歌
+
 install tensorflow https://www.geeksforgeeks.org/install-tensorflow-on-macos/
 
 python3 --version
