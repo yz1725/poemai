@@ -1,5 +1,7 @@
 机器自己创作诗歌
 
+data目录包含原始数据
+
 install tensorflow https://www.geeksforgeeks.org/install-tensorflow-on-macos/
 
 python3 --version
