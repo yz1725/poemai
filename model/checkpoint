@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/hongmeiyuan/workspace/tensorflow_poems/pythonenv/tensorflow_poems_v2/model/poems-6"
+all_model_checkpoint_paths: "/Users/hongmeiyuan/workspace/tensorflow_poems/pythonenv/tensorflow_poems_v2/model/poems-6"
